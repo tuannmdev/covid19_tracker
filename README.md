@@ -1,2 +1,2 @@
 # covid19_tracker
-Corona tracker
+Corona tracker by tuannm
